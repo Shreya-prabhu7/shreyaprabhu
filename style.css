@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+}
+.a{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    color:black;
+    background-color:blanchedalmond;
+    border:5px brown;
+}
+.b{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    color:black;
+    background-color:rgb(220, 243, 245);
+    border:5px rgb(220, 243, 245;
+}
+ul{
+    list-style: none;
+}
+footer{
+    text-align:center;
+}
